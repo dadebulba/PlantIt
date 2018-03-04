@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "39399161452",
+    "firebase_url": "https://plantit-79b0b.firebaseio.com",
+    "project_id": "plantit-79b0b",
+    "storage_bucket": "plantit-79b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39399161452:android:996f3b30651e7641",
+        "android_client_info": {
+          "package_name": "com.example.dbulbarelli.plantit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39399161452-jk387g0f8jcj12qk58q9iqu9af81iknd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dbulbarelli.plantit",
+            "certificate_hash": "a9a00f0c10a0dee3f0818d8710c0a90d078269b2"
+          }
+        },
+        {
+          "client_id": "39399161452-dpfpe4er6k1pmdv1tlo1oi9bbjkrdsh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9R19sEd09WLng8PgS4S0RwmiRkxfkCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39399161452-dpfpe4er6k1pmdv1tlo1oi9bbjkrdsh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
